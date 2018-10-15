@@ -1,0 +1,8 @@
+[10-Oct-2018 16:32:08 UTC] PHP Fatal error:  Uncaught Error: Class 'HppRequest' not found in /home/coverinaclick/public_html/testrealex/request.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/coverinaclick/public_html/testrealex/request.php on line 6
+[10-Oct-2018 16:47:05 UTC] sending: {"MERCHANT_ID":"heartlandgpsandbox","ACCOUNT":"hpp","AMOUNT":"1001","CURRENCY":"EUR","AUTO_SETTLE_FLAG":"1","PM_METHODS":"cards","ORDER_ID":"hokt8iru4qwsxca06n2ze7","TIMESTAMP":"20181010164705","SHA1HASH":"0a5d9952cce71a1f55fd028e823b7ef5c49fd1b2"}
+[10-Oct-2018 16:47:22 UTC] sending: {"MERCHANT_ID":"2Cubed","ACCOUNT":"hpp","AMOUNT":"1001","CURRENCY":"EUR","AUTO_SETTLE_FLAG":"1","PM_METHODS":"cards","ORDER_ID":"w4qe9c7rfv3yo8hn2pg15l","TIMESTAMP":"20181010164722","SHA1HASH":"7aaf1118099d7d02fa55e414f246af243870232d"}
+[10-Oct-2018 16:47:35 UTC] sending: {"MERCHANT_ID":"2cubed","ACCOUNT":"hpp","AMOUNT":"1001","CURRENCY":"EUR","AUTO_SETTLE_FLAG":"1","PM_METHODS":"cards","ORDER_ID":"ztrvus0gxh7oan846c9y1m","TIMESTAMP":"20181010164735","SHA1HASH":"c69786069c4e600166df661245c3d8e529626efe"}
+[15-Oct-2018 09:39:40 UTC] sending: {"MERCHANT_ID":"2cubed","ACCOUNT":"hpp","AMOUNT":"1001","CURRENCY":"EUR","AUTO_SETTLE_FLAG":"1","PM_METHODS":"cards","ORDER_ID":"310t4hg8i2udzwx6y5ekmj","TIMESTAMP":"20181015093940","SHA1HASH":"2b4b8a15d873a84594799476354b7f2a8b7b263a"}
